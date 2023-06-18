@@ -1,6 +1,6 @@
 # squadl
 
-A new Flutter project.
+A new Flutter project for giving the information about the college details from the given api
 
 ## Getting Started
 
